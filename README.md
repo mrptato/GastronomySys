@@ -6,4 +6,5 @@ It's a multi-user, multi-commerce web based software. Frontend done with React-R
 
 <br></br>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/1YZyosE"  ><a href="//imgur.com/a/1YZyosE">proyecto x</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img src="https://imgur.com/XVAEpsd" alt="img1">
